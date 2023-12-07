@@ -54,10 +54,10 @@ Given these findings, there are several areas where performance can be improved:
 2. Reduce Unanswered Calls: The number of unanswered calls, especially in Technical Support, is a concern. Allocating more resources or improving efficiency in these areas could help reduce the number of unanswered calls.
 3. Increase Call Resolution Rate: The call resolution rate is below the ideal benchmark. Strategies to improve this could include additional training for agents or reviewing the current processes for potential inefficiencies.
 
-![alt text](Call Centre Calls Analysis/Call_centre_Data.png)
+[PowerBi Dahboard](https://github.com/altmash-bagwan/Power-BI-Solution-for-Telecom-Company-/blob/main/Call%20Centre%20Calls%20Analysis/Call%20Centre%20Trends.pbix)
+![alt text](https://github.com/altmash-bagwan/Power-BI-Solution-for-Telecom-Company-/blob/main/Call%20Centre%20Calls%20Analysis/Call_centre_Data.png)
 
-
-### Telecom Customer Churn Analysis 
+### 2. Telecom Customer Churn Analysis 
 
 
     
