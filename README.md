@@ -54,10 +54,59 @@ Given these findings, there are several areas where performance can be improved:
 2. Reduce Unanswered Calls: The number of unanswered calls, especially in Technical Support, is a concern. Allocating more resources or improving efficiency in these areas could help reduce the number of unanswered calls.
 3. Increase Call Resolution Rate: The call resolution rate is below the ideal benchmark. Strategies to improve this could include additional training for agents or reviewing the current processes for potential inefficiencies.
 
-[PowerBi Dahboard](https://github.com/altmash-bagwan/Power-BI-Solution-for-Telecom-Company-/blob/main/Call%20Centre%20Calls%20Analysis/Call%20Centre%20Trends.pbix)
+     [PowerBi Dahboard](https://github.com/altmash-bagwan/Power-BI-Solution-for-Telecom-Company-/blob/main/Call%20Centre%20Calls%20Analysis/Call%20Centre%20Trends.pbix)
+
+   
 ![alt text](https://github.com/altmash-bagwan/Power-BI-Solution-for-Telecom-Company-/blob/main/Call%20Centre%20Calls%20Analysis/Call_centre_Data.png)
 
 ### 2. Telecom Customer Churn Analysis 
+
+#### What is Customer Churn?
+
+Customer Churn refers to the natural business cycle of losing and acquiring customers. Every company — no matter the quality of its products or customer service experiences churn. In the context of businesses, customer churn can occur due to factors such as dissatisfaction with the product or service, competitive offerings, or changes in circumstances or preferences of the customer. Generally speaking, the less churn a company has, the more customers they keep.
+
+#####  The report provided a clear and interactive way to communicate my findings, helping the client to better understand their customer behavior and make informed decisions to improve customer retention.
+
+
+#### Key Insights :
+
+##### From Customer Base : 
+
+* There is almost equal number of male - female in customer base.
+* In total Customer base 53.45% of customer are using services from less then 1 year.  
+* From customer account it is found that 55% of customer are on month to month contract type and 24% are two year contract and 20% are on 1 year contract, using service.
+* 75% of Customer prefer Paperless billing.
+* Most perefered payment method is electronic check, 35.6% of total used same method.
+
+#### From Risk Analysis : 
+
+* Overall Churn Rate is 26.54 % . Total customer churned is 1869
+* Senior-Citizens are more likely to churn, 25% of senior-citizen subscribers churned.
+* Form internet service subscribers 41% of customers churned were from fibre optics user.
+* customers with month-month contract are most likely to churn,churn rate of 42%.
+* Higher the year of contract the lower is churn rate.
+* Only 2.8% of churn rate in customers having 2 years of contract.  
+
+### Recommendations
+
+* Encourage customers to opt for longer contract durations, such as one or two-year contracts, as these customers are less likely to churn.
+* Provide incentives for customers to switch from month-to-month contracts to longer-term contracts.
+* Provide senior citizens with tailored offers and services that address their unique needs and concerns to reduce churn rates.
+* Focus on retaining female customers with month-to-month contracts, as they appear to be more likely to churn than male customers with the same contract type.
+* Offer convenient payment options and automate payment processes to reduce the number of customers who churn due to manual payment mode.
+* Address the reasons behind the churn of customers with fiber optic internet to reduce the high churn rate among this customer segment.
+  
+#### Dashboard : 
+
+![alt text](https://github.com/altmash-bagwan/Power-BI-Solution-for-Telecom-Company-/blob/main/Telcom%20Churn%20Analysis/Telecom%20Churn%20Analysis-2.jpg)
+![alt text](https://github.com/altmash-bagwan/Power-BI-Solution-for-Telecom-Company-/blob/main/Telcom%20Churn%20Analysis/Telecom%20Churn%20Analysis-3.jpg)
+
+   [Dashboard](https://github.com/altmash-bagwan/Power-BI-Solution-for-Telecom-Company-/blob/main/Telcom%20Churn%20Analysis/Telecom%20Churn%20Analysis.pbix)
+
+
+   
+     
+
 
 
     
