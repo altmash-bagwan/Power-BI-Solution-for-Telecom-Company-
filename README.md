@@ -43,8 +43,7 @@ Support contributing the most with 214 unanswered calls.
 
 #### Call Resolution Details 
 
-The call resolution rate by agents varied from 88% to 91%, which is below the
-ideal/recommended benchmark of call resolution rate of 95%.
+The call resolution rate by agents varied from 88% to 91%, which is below the ideal/recommended benchmark of call resolution rate of 95%.
 
 #### Implications and Recommendations
 
@@ -96,15 +95,42 @@ Customer Churn refers to the natural business cycle of losing and acquiring cust
 * Offer convenient payment options and automate payment processes to reduce the number of customers who churn due to manual payment mode.
 * Address the reasons behind the churn of customers with fiber optic internet to reduce the high churn rate among this customer segment.
   
-#### Dashboard : 
+#### Dashboard :
+[Power Bi Dashboard](https://github.com/altmash-bagwan/Power-BI-Solution-for-Telecom-Company-/blob/main/Telcom%20Churn%20Analysis/Telecom%20Churn%20Analysis.pbix)
 
 ![alt text](https://github.com/altmash-bagwan/Power-BI-Solution-for-Telecom-Company-/blob/main/Telcom%20Churn%20Analysis/Telecom%20Churn%20Analysis-2.jpg)
+
 ![alt text](https://github.com/altmash-bagwan/Power-BI-Solution-for-Telecom-Company-/blob/main/Telcom%20Churn%20Analysis/Telecom%20Churn%20Analysis-3.jpg)
 
-   [Dashboard](https://github.com/altmash-bagwan/Power-BI-Solution-for-Telecom-Company-/blob/main/Telcom%20Churn%20Analysis/Telecom%20Churn%20Analysis.pbix)
+
+### 3. Diversity and Inclusion Analysis : 
+
+   In this report HR Diversity and Inclusion analysis is done, I designed a Power BI dashboard report and formulated measures to define relevant KPIs to track and evaluate the organization's diversity initiatives. I analyzed various demographic characteristics, such as gender, age, nationality and utilized the data to calculate critical metrics to gain valuable insights into the organization's diversity and inclusion efforts.
+   This project served as a valuable tool for HR managers to evaluate and measure the organization's progress towards creating a more diverse and inclusive workplace culture. Through this project, I was able to provide actionable insights and data-driven decisions to ensure the organization's continuous growth towards diversity and inclusion goals.
+
+#### Key Insights and Recommandations  
+
+* There is a lack of diversity in the senior management where all senior and executive management are predominantly male, indicating there may be bias in recruitment and gender inequality in promotion.
+
+* Most women employees are in junior positions so, the organizations can conduct a review of recruitment and hiring practices and provide access to training and development opportunities to help women develop the skills necessary to advance into higher-level positions. This could include mentorship and sponsorship programs, leadership development programs, and cross-functional training.
+
+* The fact that the average performance ratings for FY20 for female and male employees are very similar (2.42 for females and 2.41 for males) suggests that there may be gender equality in terms of performance within the company. This is a positive sign, as it suggests that the company is evaluating employees based on their actual performance, rather than any bias or stereotypes based on gender. However, there may be room for improvement in terms of employee performance, and it is important to be vigilant for potential biases that could impact the evaluation process.
+
+### Dashboard : 
+
+   [PowerBi Dashboard](https://github.com/altmash-bagwan/Power-BI-Solution-for-Telecom-Company-/blob/main/Diversity%20and%20Inclusion/HR%20-%20Diversity%20_%20Inclusion.pbix)
 
 
-   
+![alt text](https://github.com/altmash-bagwan/Power-BI-Solution-for-Telecom-Company-/blob/main/Diversity%20and%20Inclusion/HR%20-%20Diversity%20%26%20Inclusion-1.jpg)
+
+![alt text](https://github.com/altmash-bagwan/Power-BI-Solution-for-Telecom-Company-/blob/main/Diversity%20and%20Inclusion/HR%20-%20Diversity%20%26%20Inclusion-2.jpg)
+
+### Conclusion
+This HR Diversity and Inclusion Analysis project is a critical component in measuring and tracking an organization's diversity and inclusion initiatives. The project provides valuable insights for HR managers, proposed recommendations to make data-driven decisions and take proactive steps towards creating a more diverse and inclusive workplace culture.
+
+
+
+
      
 
 
