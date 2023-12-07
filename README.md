@@ -53,7 +53,8 @@ Given these findings, there are several areas where performance can be improved:
 2. Reduce Unanswered Calls: The number of unanswered calls, especially in Technical Support, is a concern. Allocating more resources or improving efficiency in these areas could help reduce the number of unanswered calls.
 3. Increase Call Resolution Rate: The call resolution rate is below the ideal benchmark. Strategies to improve this could include additional training for agents or reviewing the current processes for potential inefficiencies.
 
-     [PowerBi Dahboard](https://github.com/altmash-bagwan/Power-BI-Solution-for-Telecom-Company-/blob/main/Call%20Centre%20Calls%20Analysis/Call%20Centre%20Trends.pbix)
+
+[PowerBi Dahboard](https://github.com/altmash-bagwan/Power-BI-Solution-for-Telecom-Company-/blob/main/Call%20Centre%20Calls%20Analysis/Call%20Centre%20Trends.pbix)
 
    
 ![alt text](https://github.com/altmash-bagwan/Power-BI-Solution-for-Telecom-Company-/blob/main/Call%20Centre%20Calls%20Analysis/Call_centre_Data.png)
@@ -95,7 +96,8 @@ Customer Churn refers to the natural business cycle of losing and acquiring cust
 * Offer convenient payment options and automate payment processes to reduce the number of customers who churn due to manual payment mode.
 * Address the reasons behind the churn of customers with fiber optic internet to reduce the high churn rate among this customer segment.
   
-#### Dashboard :
+
+
 [Power Bi Dashboard](https://github.com/altmash-bagwan/Power-BI-Solution-for-Telecom-Company-/blob/main/Telcom%20Churn%20Analysis/Telecom%20Churn%20Analysis.pbix)
 
 ![alt text](https://github.com/altmash-bagwan/Power-BI-Solution-for-Telecom-Company-/blob/main/Telcom%20Churn%20Analysis/Telecom%20Churn%20Analysis-2.jpg)
@@ -116,9 +118,10 @@ Customer Churn refers to the natural business cycle of losing and acquiring cust
 
 * The fact that the average performance ratings for FY20 for female and male employees are very similar (2.42 for females and 2.41 for males) suggests that there may be gender equality in terms of performance within the company. This is a positive sign, as it suggests that the company is evaluating employees based on their actual performance, rather than any bias or stereotypes based on gender. However, there may be room for improvement in terms of employee performance, and it is important to be vigilant for potential biases that could impact the evaluation process.
 
-### Dashboard : 
 
-   [PowerBi Dashboard](https://github.com/altmash-bagwan/Power-BI-Solution-for-Telecom-Company-/blob/main/Diversity%20and%20Inclusion/HR%20-%20Diversity%20_%20Inclusion.pbix)
+
+
+[PowerBi Dashboard](https://github.com/altmash-bagwan/Power-BI-Solution-for-Telecom-Company-/blob/main/Diversity%20and%20Inclusion/HR%20-%20Diversity%20_%20Inclusion.pbix)
 
 
 ![alt text](https://github.com/altmash-bagwan/Power-BI-Solution-for-Telecom-Company-/blob/main/Diversity%20and%20Inclusion/HR%20-%20Diversity%20%26%20Inclusion-1.jpg)
